@@ -2,8 +2,6 @@
 /build
 /dist
 /tmp
-/package-lock.json
-/src/artifacts
 
 /nbproject
 /.idea
